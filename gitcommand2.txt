@@ -1,0 +1,6 @@
+cd 进入指定文件
+mkdir 创建文件夹
+pwd 查看当前目录
+git init 把这个目录变成git可以管理的仓库
+git add filename 添加文件
+https://github.com/Doraemon66/testgit.git
